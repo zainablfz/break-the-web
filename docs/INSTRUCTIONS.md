@@ -5,7 +5,7 @@ Doe een Performance Audit op een bestaande website en documenteer je bevindingen
 
 ## Context
 
-Deze deeltaak hoort bij sprint 10 Performance Matters. Dit is een dedeltaak die je individueel uitvoert.
+Deze deeltaak hoort bij sprint 10 Performance Matters. Dit is een deeltaak die je individueel uitvoert.
 
 In het college S10W1-02-Frontend-Performance-Audit wordt behandeld wat _performance_ is en hoe je een Performance Audit doet.
 
@@ -61,4 +61,4 @@ P: Je analyseert een vraag, signaleert knelpunten en volgt de aangeboden oplossi
 Deze opdracht is done als:
 
 - [ ] Er is met PageSpeed Insights een Performance Audit van een bestaande website gedaan
-- [ ] Het onderzoek is gedocumenteerd in de Wiki van de leertaak
+- [ ] Het onderzoek is gedocumenteerd in de Wiki van de deeltaak
