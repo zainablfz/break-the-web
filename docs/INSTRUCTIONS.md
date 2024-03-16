@@ -1,5 +1,5 @@
 
-# Performance Matters - Performance Audit
+# Performance Audit
 
 Doe een Performance Audit op een bestaande website en documenteer je bevindingen.
 
