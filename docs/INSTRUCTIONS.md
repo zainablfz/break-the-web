@@ -1,7 +1,7 @@
 
-# Performance Audit
+# Break the Web
 
-Doe een Performance Audit op een bestaande website en documenteer je bevindingen.
+Het Web laten 'breken' door features van het platform bewust uit te zetten. Images, custom fonts, JavaScript, kleur, breedband internet
 
 ## Context
 
