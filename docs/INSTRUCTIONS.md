@@ -1,31 +1,33 @@
 
 # Break the Web
 
-Het Web laten 'breken' door features van het platform bewust uit te zetten. Images, custom fonts, JavaScript, kleur, breedband internet
+Het Web laten 'breken' door features van het platform bewust uit te zetten. Internet snelheid, afbeeldingen, custom fonts, kleur, muis en JavaScript.
 
 ## Context
 
 Deze deeltaak hoort bij sprint 10 Performance Matters. Dit is een deeltaak die je individueel uitvoert.
 
-In het college S10W1-02-Frontend-Performance-Audit wordt behandeld wat _performance_ is en hoe je een Performance Audit doet.
+In het college S10W1-02-Core-Web-Vital wordt behandeld wat _performance_ is en hoe je performance kan testen.
 
 
 
 --------
 
 
-# Browser Technologies - Opdracht 2 💔 Breek het Web
-
-Het Web laten 'breken' door features van het platform bewust uit te zetten. Images, custom fonts, JavaScript, kleur, breedband internet.
 
 ## Doel van deze opdracht
 
 Het doel van deze opdracht is om erachter komen dat je misschien aannames hebt die niet kloppen, en om je in te laten leven in de eindgebruiker.
 
+
 ## Uitleg
 
-Onderzoek minimaal twee features. Dat betekent uitvogelen wat het voor impact heeft op de sites die je kent en normaal gebruikt. Zoek uit hoe je de feature kan testen. Kies sites in je directe omgeving: van je werkgever, lokale vereniging, de cafetaria om de hoek, en/of eerdere projecten die je zelf gedaan hebt. Onderzoek de problemen, cijfers en/of meningen. Bedenk ook hoe je de problemen zou kunnen oplossen.
+Onderzoek met een groepje onderstaande _features_. Dat betekent uitvogelen wat het voor impact heeft op de sites die je kent en normaal gebruikt. Kies verschillende sites in je directe omgeving: van je werkgever, lokale vereniging of de cafetaria om de hoek. 
 
+Zoek uit hoe je de feature kan testen. Onderzoek de problemen, cijfers en/of meningen. Bedenk ook hoe je de problemen zou kunnen oplossen. Documenteer je bevindingen en geef een presentatie.
+
+
+### Features
 
 0. Internet snelheid
 1. Afbeeldingen
@@ -35,85 +37,45 @@ Onderzoek minimaal twee features. Dat betekent uitvogelen wat het voor impact he
 5. Javascript (volledig)
 6. Content / Ad blockers
 
+#### Internet snelheid
+Doe een performance test en onderzoek hoe websites werken als iemand met een hele lage internet snelheid een website bezoekt. 
+
+Analyseer de verschillende metrics voor een Performance test met [Light house](https://developer.chrome.com/docs/lighthouse). Lees per metrics wat het is, wat het meet en hoe je het zou kunnen verbeteren. Bekijk welke _Opportunities_ en _Diagnostics_ zijn gevonden
+
+#### Afbeeldingen
+Onderzoek wat er gebeurt als plaatjes niet kunnen worden getoond. 
+
+#### Custom fonts
+Onderzoek wat er gebeurt als custom fonts niet kunnen worden geladen en/of getoond. Werkt de site nog naar behoren?
+
+#### Kleur & kleurenblindheid
+Onderzoek of een website het nog goed doet als er geen kleur kunnen worden getoond, of als een gebruiker kleurenblind is. 
+
+#### Muis/Trackpad
+Onderzoek of je een sit enog wel goed kan bedienen als je geen muis of trackpad kan gebruiken.
+
+#### Javascript (volledig)
+Onderzoek wat er gebeurt als Javascript uit staat, het niet goed doet of wordt geblokt in verband met veligheids-instellingen. Doet alles het nog? Werk het menu goed? Kun je focumulieren nog wel gebuiken?
+
+#### Content / Ad blockers
+Onderzoek wat er gebeurt als content en/of add blockers aan staan. 
 
 
 ## Werkwijze
 
-Groepjes van 3 geven een presentatie over hun begindingen
-Idereen doet een performance test
-En kiest nog 2 festures om te onderzoeken
-
-
-- Elke student kiest 2 features om te onderzoeken, welke zou je willen onderzoeken
-- Verdeel alle features in je team, met het team worden alle feautures 1 of 2 keer onderzocht  
-- Donderdagmiddag checkout in teams met de studentassistent
-- Vrijdag bespreken we het onderzoek in teams volgens het rooster
+- Onderzoek met een groepje van 3 de verschillende _features_
+- Elke student onderzoekt Internet snelheid en doet een performance test
+- Elke student kiest 2 andere _features_ om te onderzoeken, met het team worden alle _feautures_ onderzocht  
+- Presenteer je bevindingen naan de squad
 
 
 ## Criteria
 
-- Elke student onderzoekt 2 features
-- Zoek uit welke problemen de features kunnen veroorzaken (verzamel cijfers, meningen, ervaringen)
-- Zoek uit hoe je dit kunt testen (hoe kun je een feature ‘uitzetten’)
-- Vind een aantal sites waar dit ook problemen oplevert (uit je directe omgeving)
-- Beschrijf hoe je dit kan fiksen
-
-
-
----------
+- [ ] Elke student heeft een performance test uitgevoerd en daarnaast nog minimaal 2 _features_ onderzocht
+- [ ] Er is uitgezocht en gedocumeneerd welke problemen de _features_ kunnen veroorzaken (verzamel cijfers, meningen, ervaringen)
+- [ ] Er is uitgezocht en gedocumeneerd hoe je dit kunt testen (hoe kun je een _feature_ ‘uitzetten’)
+- [ ] Er is uitgezocht en gedocumenteerd hoe je de problemen zou kunnen fixen
 
 
 
 
-## Doel van deze opdracht
-
-Één van de mooiste [principes](https://www.w3.org/DesignIssues/Principles.html) van het web is dat iedereen met een computer en een browser het web kan gebruik. [Het web is voor iedereen](https://www.youtube.com/watch?v=UMNFehJIi0E). 
-
-_Performance_ is daar een belangrijk onderdeel van. _Performance == Accessibility_ zegt [Léonie Watson](https://tink.uk/about-leonie/). 
-
-In deze opdracht ga je leren een Performance Audit te doen met PageSpeed Insights, een open-source tool om de performance van websites te testen en te verbeteren. 
-
-## Werkwijze
-
-Opdracht: Doe een Performance Audit op een bestaande website. Gebruik PageSpeed Insights om de audit (test/beoordeling) te doen en documenteer de bevindingen en wat zou kunnen worden verbeterd. 
-
-
-Deze opdracht gaat over de [analyse](#analyse) fase van de DLC.
-
-### Analyse
-
-Voor deze opdracht doe je een analyse op een bestaande website. Kies een bestaande website om een Performance Audit voor te doen. Het is interessant om een website te analyseren die niet goed _performed_. Eerst doe je een audit en daarna ge je bekijken hoe de performance zou kunnen worden verbeterd. Na de analyse documenteer je je bevindingen in de Wiki. 
-
-
-1. Ga naar [PageSpeed Insights](https://pagespeed.web.dev)
-2. Vul de url in van de website waarvan je de performance wil testen en klik op _Analyze_
-3. Kopieer, als de analyse klaar is, de link naar de resultaten van de analyse ('Copy link'-button rechtsbovenaan de pagina) en vermeld de link bij je documentatie in de Wiki van de leertaak
-4. Analyseer deze Metrics:
-    - Largest Contentful Paint (LCP)
-    - Cumulative Layout Shift (CLS)
-    - First Contentful Paint (FCP)
-    - Speed Index (SI)
-    - Total Blocking Time (TBT)
-5. Lees per metrics wat het is, wat het meet en hoe je het zou kunnen verbeteren
-    - Kik _Learn more_ in de PageSpeed Insights  rapprt bij de Metrics
-6. Bekijk welke _Opportunities_ en _Diagnostics_ zijn gevonden
-7. Documenteer per Metrics wat je hebt gevonden en hoe dit kan worden verbeterd
-
-#### Bronnen analysefase
-
-- [PageSpeed Insights](https://pagespeed.web.dev)
-- [Metrics - Measuring performance and user experience](https://web.dev/metrics/)
-- [Web Performance](https://developer.mozilla.org/en-US/docs/Web/Performance)
-
-## Criteria
-
-Focus sprint 10 - De focus van deze sprint ligt op het beter en sneller laten werken van een applicatie.
-
-Deze leertaak hoort bij het gedragscriterium:
-
-P: Je analyseert een vraag, signaleert knelpunten en volgt de aangeboden oplossingsrichting.
-
-Deze opdracht is done als:
-
-- [ ] Er is met PageSpeed Insights een Performance Audit van een bestaande website gedaan
-- [ ] Het onderzoek is gedocumenteerd in de Wiki van de deeltaak
