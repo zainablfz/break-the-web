@@ -26,20 +26,15 @@ Het doel van deze opdracht is om erachter komen dat je misschien aannames hebt d
 
 Onderzoek minimaal twee features. Dat betekent uitvogelen wat het voor impact heeft op de sites die je kent en normaal gebruikt. Zoek uit hoe je de feature kan testen. Kies sites in je directe omgeving: van je werkgever, lokale vereniging, de cafetaria om de hoek, en/of eerdere projecten die je zelf gedaan hebt. Onderzoek de problemen, cijfers en/of meningen. Bedenk ook hoe je de problemen zou kunnen oplossen.
 
-1. Afbeeldingen uitzetten
-2. Custom fonts uitzetten
-3. Kleur uitzetten & kleurenblindheid instellen
-4. Muis/Trackpad werkt niet
-5. Breedband internet uitzetten
-6. Javascript (volledig)
-7. Cookies niet accepteren
-8. localStorage doet het niet
+1. Breedband internet uitzetten
+2. Afbeeldingen uitzetten
+3. Custom fonts uitzetten
+4. Kleur uitzetten & kleurenblindheid instellen
+5. Muis/Trackpad werkt niet
+7. Javascript (volledig)
+8. Cookies niet accepteren
+9. Content / Ad blockers
 
-Optioneel mag je ook één van deze features onderzoeken:
-
-- a. Content blockers
-- b. Ad blockers (privacy)
-- c. Browser detect
 
 ## Werkwijze
 
