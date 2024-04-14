@@ -25,13 +25,13 @@ Zoek uit hoe je de feature kan testen. Onderzoek de problemen, cijfers en/of men
 
 ### Features
 
-0. Internet snelheid
-1. Afbeeldingen
-2. Custom fonts
-3. Kleur & kleurenblindheid
-4. Muis/Trackpad
-5. Javascript (volledig)
-6. Content / Ad blockers
+0. [Internet snelheid](#internet-snelheid)
+1. [Afbeeldingen](#afbeeldingen)
+2. [Custom fonts/font icons](#cutom-fontsfont-icons)
+3. [Kleur & kleurenblindheid](#kleur--kleurenblindheid)
+4. [Muis/Trackpad](#muistrackpad)
+5. [Javascript (volledig)](#javascript-volledig)
+6. [Content/Ad blockers](#contentad-blockers)
 
 #### Internet snelheid
 Doe een performance test en onderzoek hoe websites werken als iemand met een hele lage internet snelheid een website bezoekt. 
@@ -41,7 +41,7 @@ Analyseer de verschillende metrics voor een Performance test met [Light house](h
 #### Afbeeldingen
 Onderzoek wat er gebeurt als plaatjes niet kunnen worden getoond. 
 
-#### Custom fonts
+#### Custom fonts/Font icons
 Onderzoek wat er gebeurt als custom fonts niet kunnen worden geladen en/of getoond. Werkt de site nog naar behoren?
 
 #### Kleur & kleurenblindheid
@@ -53,7 +53,7 @@ Onderzoek of je een sit enog wel goed kan bedienen als je geen muis of trackpad 
 #### Javascript (volledig)
 Onderzoek wat er gebeurt als Javascript uit staat, het niet goed doet of wordt geblokt in verband met veligheids-instellingen. Doet alles het nog? Werk het menu goed? Kun je focumulieren nog wel gebuiken?
 
-#### Content / Ad blockers
+#### Content/Ad blockers
 Onderzoek wat er gebeurt als content en/of add blockers aan staan. 
 
 
