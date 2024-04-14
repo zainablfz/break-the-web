@@ -36,7 +36,7 @@ Zoek uit hoe je de feature kan testen. Onderzoek de problemen, cijfers en/of men
 #### Internet snelheid
 Doe een performance test en onderzoek hoe websites werken als iemand met een hele lage internet snelheid een website bezoekt. 
 
-Analyseer de verschillende metrics voor een Performance test met [Lighthouse](https://developer.chrome.com/docs/lighthouse) of [PageSpeed Insights](https://pagespeed.web.dev). Lees per metrics wat het is, wat het meet en hoe je het zou kunnen verbeteren. Bekijk welke _Opportunities_ en _Diagnostics_ zijn gevonden
+Analyseer de verschillende metrics voor een Performance test met [Lighthouse](https://developer.chrome.com/docs/lighthouse) of [PageSpeed Insights](https://pagespeed.web.dev). Lees per metric wat het is, wat het meet en hoe je het zou kunnen verbeteren. Bekijk welke _Opportunities_ en _Diagnostics_ zijn gevonden
 
 #### Afbeeldingen
 Onderzoek wat er gebeurt als plaatjes niet kunnen worden getoond. 
