@@ -27,7 +27,7 @@ Zoek uit hoe je de feature kan testen. Onderzoek de problemen, cijfers en/of men
 
 0. [Internet snelheid](#internet-snelheid)
 1. [Afbeeldingen](#afbeeldingen)
-2. [Custom fonts/font icons](#cutom-fontsfont-icons)
+2. [Custom fonts/font icons](#custom-fontsfont-icons)
 3. [Kleur & kleurenblindheid](#kleur--kleurenblindheid)
 4. [Muis/Trackpad](#muistrackpad)
 5. [Javascript (volledig)](#javascript-volledig)
@@ -42,7 +42,7 @@ Analyseer de verschillende metrics voor een Performance test met [Light house](h
 Onderzoek wat er gebeurt als plaatjes niet kunnen worden getoond. 
 
 #### Custom fonts/Font icons
-Onderzoek wat er gebeurt als custom fonts niet kunnen worden geladen en/of getoond. Werkt de site nog naar behoren?
+Onderzoek wat er gebeurt als custom fonts niet kunnen worden geladen en/of getoond. Of dat een Icon font niet goed werkt. Werkt de site nog naar behoren?
 
 #### Kleur & kleurenblindheid
 Onderzoek of een website het nog goed doet als er geen kleur kunnen worden getoond, of als een gebruiker kleurenblind is. 
