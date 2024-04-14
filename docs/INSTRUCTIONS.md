@@ -20,7 +20,7 @@ Het doel van deze opdracht is om erachter komen dat je misschien aannames hebt d
 
 Onderzoek met een groepje onderstaande _features_. Dat betekent uitvogelen wat het voor impact heeft op de sites die je kent en normaal gebruikt. Kies verschillende sites in je directe omgeving: van je werkgever, lokale vereniging of de cafetaria om de hoek. 
 
-Zoek uit hoe je de feature kan testen. Onderzoek de problemen, cijfers en/of meningen. Bedenk ook hoe je de problemen zou kunnen oplossen. Documenteer je bevindingen en geef een presentatie.
+Zoek uit hoe je de _feature_ kan testen. Onderzoek de problemen, cijfers en/of meningen. Bedenk ook hoe je de problemen zou kunnen oplossen. Documenteer je bevindingen en geef een presentatie.
 
 
 ### Features
