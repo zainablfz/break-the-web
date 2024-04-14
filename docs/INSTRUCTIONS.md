@@ -5,7 +5,7 @@ Het Web laten 'breken' door features van het platform bewust uit te zetten. Inte
 
 ## Context
 
-Deze deeltaak hoort bij sprint 10 Performance Matters. Dit is een deeltaak die je individueel uitvoert.
+Deze deeltaak hoort bij sprint 10 User Experience. Dit is een deeltaak die je individueel uitvoert.
 
 In het college S10W1-02-Core-Web-Vital wordt behandeld wat _performance_ is en hoe je performance kan testen.
 
@@ -27,41 +27,41 @@ Zoek uit hoe je de feature kan testen. Onderzoek de problemen, cijfers en/of men
 
 0. [Internet snelheid](#internet-snelheid)
 1. [Afbeeldingen](#afbeeldingen)
-2. [Custom fonts/font icons](#custom-fontsfont-icons)
+2. [Custom fonts/icon fonts](#custom-fontsicon-fonts)
 3. [Kleur & kleurenblindheid](#kleur--kleurenblindheid)
 4. [Muis/Trackpad](#muistrackpad)
-5. [Javascript (volledig)](#javascript-volledig)
+5. [JavaScript (volledig)](#javascript-volledig)
 6. [Content/Ad blockers](#contentad-blockers)
 
 #### Internet snelheid
 Doe een performance test en onderzoek hoe websites werken als iemand met een hele lage internet snelheid een website bezoekt. 
 
-Analyseer de verschillende metrics voor een Performance test met [Lighthouse](https://developer.chrome.com/docs/lighthouse). Lees per metrics wat het is, wat het meet en hoe je het zou kunnen verbeteren. Bekijk welke _Opportunities_ en _Diagnostics_ zijn gevonden
+Analyseer de verschillende metrics voor een Performance test met [Lighthouse](https://developer.chrome.com/docs/lighthouse) of [PageSpeed Insights](https://pagespeed.web.dev). Lees per metrics wat het is, wat het meet en hoe je het zou kunnen verbeteren. Bekijk welke _Opportunities_ en _Diagnostics_ zijn gevonden
 
 #### Afbeeldingen
 Onderzoek wat er gebeurt als plaatjes niet kunnen worden getoond. 
 
-#### Custom fonts/Font icons
-Onderzoek wat er gebeurt als custom fonts niet kunnen worden geladen en/of getoond. Of dat een Icon font niet goed werkt. Werkt de site nog naar behoren?
+#### Custom fonts/Icon fonts
+Onderzoek wat er gebeurt als custom fonts niet kunnen worden geladen en/of getoond. Of dat een icon font niet goed werkt. Werkt de site nog naar behoren?
 
 #### Kleur & kleurenblindheid
-Onderzoek of een website het nog goed doet als er geen kleur kunnen worden getoond, of als een gebruiker kleurenblind is. 
+Onderzoek of een website het nog goed doet als er geen kleur kan worden getoond, of als een gebruiker kleurenblind is. 
 
 #### Muis/Trackpad
-Onderzoek of je een sit enog wel goed kan bedienen als je geen muis of trackpad kan gebruiken.
+Onderzoek of je een site nog wel goed kan bedienen als je geen muis of trackpad kan gebruiken.
 
-#### Javascript (volledig)
-Onderzoek wat er gebeurt als Javascript uit staat, het niet goed doet of wordt geblokt in verband met veligheids-instellingen. Doet alles het nog? Werk het menu goed? Kun je focumulieren nog wel gebuiken?
+#### JavaScript (volledig)
+Onderzoek wat er gebeurt als JavaScript uit staat, het niet goed doet of wordt geblokkeerd in verband met veiligheids-instellingen. Doet alles het nog? Werk het menu goed? Kun je formulieren nog wel gebuiken?
 
 #### Content/Ad blockers
-Onderzoek wat er gebeurt als content en/of add blockers aan staan. 
+Onderzoek wat er gebeurt als content en/of ad blockers aan staan. 
 
 
 ## Werkwijze
 
 - Onderzoek met een groepje van 3 de verschillende _features_
 - Elke student onderzoekt Internet snelheid en doet een performance test
-- Elke student kiest 2 andere _features_ om te onderzoeken, met het team worden alle _feautures_ onderzocht  
+- Elke student kiest 2 andere _features_ om te onderzoeken, met het team worden alle _features_ onderzocht  
 - Presenteer je bevindingen naan de squad
 
 
@@ -69,7 +69,7 @@ Onderzoek wat er gebeurt als content en/of add blockers aan staan.
 
 - [ ] Elke student heeft een performance test uitgevoerd en daarnaast nog minimaal 2 _features_ onderzocht
 - [ ] Er is uitgezocht en gedocumeneerd welke problemen de _features_ kunnen veroorzaken (verzamel cijfers, meningen, ervaringen)
-- [ ] Er is uitgezocht en gedocumeneerd hoe je dit kunt testen (hoe kun je een _feature_ ‘uitzetten’)
+- [ ] Er is uitgezocht en gedocumeneerd hoe je dit kunt testen (hoe kun je een _feature_ ‘uitzetten’ in je browser)
 - [ ] Er is uitgezocht en gedocumenteerd hoe je de problemen zou kunnen fixen
 
 
