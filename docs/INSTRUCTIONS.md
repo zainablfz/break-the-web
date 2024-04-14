@@ -68,8 +68,8 @@ Onderzoek wat er gebeurt als content en/of ad blockers aan staan.
 ## Criteria
 
 - [ ] Elke student heeft een performance test uitgevoerd en daarnaast nog minimaal 2 _features_ onderzocht
-- [ ] Er is uitgezocht en gedocumeneerd welke problemen de _features_ kunnen veroorzaken (verzamel cijfers, meningen, ervaringen)
-- [ ] Er is uitgezocht en gedocumeneerd hoe je dit kunt testen (hoe kun je een _feature_ ‘uitzetten’ in je browser)
+- [ ] Er is uitgezocht en gedocumenteerd welke problemen de _features_ kunnen veroorzaken (verzamel cijfers, meningen, ervaringen)
+- [ ] Er is uitgezocht en gedocumenteerd hoe je dit kunt testen (hoe kun je een _feature_ ‘uitzetten’ in je browser)
 - [ ] Er is uitgezocht en gedocumenteerd hoe je de problemen zou kunnen fixen
 
 
