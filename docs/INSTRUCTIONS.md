@@ -59,10 +59,10 @@ Onderzoek wat er gebeurt als content en/of ad blockers aan staan.
 
 ## Werkwijze
 
-- Onderzoek met een groepje van 3 de verschillende _features_
-- Elke student onderzoekt Internet snelheid en doet een performance test
-- Elke student kiest 2 andere _features_ om te onderzoeken, met het team worden alle _features_ onderzocht  
-- Presenteer je bevindingen naan de squad
+- Onderzoek met een groepje van 3 alle _features_
+- Elke student doet een Performance test en onderzoekt Internet snelheid
+- Elke student kiest 2 andere _features_ om te onderzoeken
+- Presenteer je bevindingen aan de squad
 
 
 ## Criteria
