@@ -25,13 +25,13 @@ Zoek uit hoe je de _feature_ kan testen. Onderzoek de problemen, cijfers en/of m
 
 ### Features
 
-0. [Performance test & Internet snelheid](#performance-test---internet-snelheid)
-1. [Afbeeldingen](#afbeeldingen)
-2. [Custom fonts/icon fonts](#custom-fontsicon-fonts)
-3. [Kleur & kleurenblindheid](#kleur--kleurenblindheid)
-4. [Muis/Trackpad](#muistrackpad)
-5. [JavaScript (volledig)](#javascript-volledig)
-6. [Content/Ad blockers](#contentad-blockers)
+1. [Performance test & Internet snelheid](#performance-test---internet-snelheid)
+2. [Afbeeldingen](#afbeeldingen)
+3. [Custom fonts/icon fonts](#custom-fontsicon-fonts)
+4. [Kleur & kleurenblindheid](#kleur--kleurenblindheid)
+5. [Muis/Trackpad](#muistrackpad)
+6. [JavaScript (volledig)](#javascript-volledig)
+7. [Content/Ad blockers](#contentad-blockers)
 
 #### Performance test & Internet snelheid
 Doe een performance test en onderzoek hoe websites werken als iemand met een hele lage internet snelheid een website bezoekt. 
