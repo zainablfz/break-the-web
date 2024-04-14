@@ -7,7 +7,7 @@ Het Web laten 'breken' door features van het platform bewust uit te zetten. Inte
 
 Deze deeltaak hoort bij sprint 10 User Experience. Dit is een deeltaak die je individueel uitvoert.
 
-In het college S10W1-02-Core-Web-Vital wordt behandeld wat _performance_ is en hoe je performance kan testen.
+In het college S10W1-02-Core-Web-Vitals wordt behandeld wat _performance_ is en hoe je performance kan testen.
 
 
 
