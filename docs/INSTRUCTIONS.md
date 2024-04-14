@@ -25,7 +25,7 @@ Zoek uit hoe je de feature kan testen. Onderzoek de problemen, cijfers en/of men
 
 ### Features
 
-0. [Internet snelheid](#internet-snelheid)
+0. [Performance test & Internet snelheid](#performance-test---internet-snelheid)
 1. [Afbeeldingen](#afbeeldingen)
 2. [Custom fonts/icon fonts](#custom-fontsicon-fonts)
 3. [Kleur & kleurenblindheid](#kleur--kleurenblindheid)
@@ -33,7 +33,7 @@ Zoek uit hoe je de feature kan testen. Onderzoek de problemen, cijfers en/of men
 5. [JavaScript (volledig)](#javascript-volledig)
 6. [Content/Ad blockers](#contentad-blockers)
 
-#### Internet snelheid
+#### Performance test & Internet snelheid
 Doe een performance test en onderzoek hoe websites werken als iemand met een hele lage internet snelheid een website bezoekt. 
 
 Analyseer de verschillende metrics voor een Performance test met [Lighthouse](https://developer.chrome.com/docs/lighthouse) of [PageSpeed Insights](https://pagespeed.web.dev). Lees per metric wat het is, wat het meet en hoe je het zou kunnen verbeteren. Bekijk welke _Opportunities_ en _Diagnostics_ zijn gevonden
