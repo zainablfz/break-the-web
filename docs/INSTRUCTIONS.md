@@ -11,10 +11,6 @@ In het college S10W1-02-Core-Web-Vital wordt behandeld wat _performance_ is en h
 
 
 
---------
-
-
-
 ## Doel van deze opdracht
 
 Het doel van deze opdracht is om erachter komen dat je misschien aannames hebt die niet kloppen, en om je in te laten leven in de eindgebruiker.
